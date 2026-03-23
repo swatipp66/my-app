@@ -1,2 +1,4 @@
-jenkins.war
 target/
+*.jar
+*.war
+jenkins.war
